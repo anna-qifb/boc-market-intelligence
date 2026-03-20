@@ -1,1 +1,1 @@
-# boc-market-intelligence
+# hsbc-market-intelligence
